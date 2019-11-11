@@ -1,0 +1,1 @@
+This is Majnuel's first git project!
